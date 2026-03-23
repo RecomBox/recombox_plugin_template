@@ -5,7 +5,7 @@ Make sure you have the following installed:
 
 
 ## Making Plugins
-Clone this repository
+Clone or Fork this repository
 ```bash
 git clone https://github.com/RecomBox/recombox_plugin_provider
 cd recombox_plugin_provider
